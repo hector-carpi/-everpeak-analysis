@@ -4,6 +4,17 @@ Este repositorio contiene el análisis realizado durante el Sprint 6 del caso Ev
 
 El dataset `everpeak_retail` incluye 2,000 órdenes de clientes con valores faltantes, sentinels, outliers y problemas de calidad diseñados para simular datos reales del retail. :contentReference[oaicite:2]{index=2}
 
+## Datasets
+- plans.csv
+- users_latam.csv
+- usage.csv
+
+## Proceso
+1. Limpieza de datos
+2. Análisis exploratorio
+3. Detección de outliers
+4. Segmentación
+
 ## 📂 Contenido del repositorio
 
 - `notebooks/everpeak_analysis.ipynb`
